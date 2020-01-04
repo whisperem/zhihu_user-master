@@ -41,6 +41,8 @@ python3+MongoDB+pandas+requests+pymongo
 
 简历——zhihu_resume.py
 
+MongoDB数据库导出数据csv文件——to_csv.py
+
 ###### 4.运行结果展示
 
 
