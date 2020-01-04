@@ -48,5 +48,18 @@ MongoDB数据库导出数据csv文件——to_csv.py
 面试
 ![](img/1.png)
 
+实习
+![](img/2.png)
+
+找工作
+![](img/3.png)
+
+简历
+![](img/4.png)
+
+数据导出
+![](img/5.png)
+
+
 
 
