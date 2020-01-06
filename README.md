@@ -60,6 +60,9 @@ MongoDB数据库导出数据csv文件——to_csv.py
 数据导出
 ![](img/5.png)
 
+已经在linux系统中将项目部署到docker,目前docker的MongoDB正在配置
+![](img/7.png)
+
 
 
 
